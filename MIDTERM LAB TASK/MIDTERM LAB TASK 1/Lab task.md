@@ -19,7 +19,7 @@ Output:
 
 
 Problem 3. Book Reservation; Accept User Input
-<img width="734" height="269" alt="image" src="https://github.com/user-attachments/assets/2dcdc3fe-30b7-4493-97a8-69508122bc0b" />
+<img width="804" height="530" alt="image" src="https://github.com/user-attachments/assets/ba8ff35d-f40d-4863-8bf4-c044b29fa713" />
 
 Source Code:
 <img width="910" height="471" alt="image" src="https://github.com/user-attachments/assets/12d9d877-7a01-4032-a93a-d1ef219db39e" />
