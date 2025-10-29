@@ -19,20 +19,20 @@
 
 
 ## Problem 3. Book Reservation; Accept User Input
-<img width="804" height="530" alt="image" src="https://github.com/user-attachments/assets/ba8ff35d-f40d-4863-8bf4-c044b29fa713" />
+<img width="734" height="269" alt="image" src="https://github.com/user-attachments/assets/e4381e2f-562d-4e59-b477-848fb40534bf" />
 
 ## Source Code:
-<img width="910" height="471" alt="image" src="https://github.com/user-attachments/assets/12d9d877-7a01-4032-a93a-d1ef219db39e" />
+<img width="910" height="471" alt="image" src="https://github.com/user-attachments/assets/0546e182-63fc-4b14-81af-146412b2a4f6" />
 
 ## Output:
-<img width="711" height="597" alt="image" src="https://github.com/user-attachments/assets/1e1d2de6-7ef8-4075-95cf-cd87555773fc" />
+<img width="804" height="530" alt="image" src="https://github.com/user-attachments/assets/76e84ecf-24f7-415f-a6e0-f5cbf930ffc4" />
 
 
 ## Problem 4. Day Identifier
-<img width="804" height="530" alt="image" src="https://github.com/user-attachments/assets/1af858d7-e8e3-4cb7-ae0f-e20dfc6b3c79" />
+<img width="711" height="597" alt="image" src="https://github.com/user-attachments/assets/d884a02c-b022-4aa1-86ee-103bd9034332" />
 
 ## Source Code:
-<img width="627" height="620" alt="image" src="https://github.com/user-attachments/assets/6a9dce09-8711-4a73-9fb4-281b1beabf07" />
+<img width="627" height="620" alt="image" src="https://github.com/user-attachments/assets/a693d042-78aa-420b-a4c2-d0e339c4635c" />
 
 ## Output:
 <img width="311" height="68" alt="image" src="https://github.com/user-attachments/assets/3296ff26-6575-4189-b60d-a99ee8715cf7" />
