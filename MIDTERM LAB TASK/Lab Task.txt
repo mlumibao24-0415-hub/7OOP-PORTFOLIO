@@ -1,0 +1,35 @@
+Problem 1. Use Appropriate Escape Sequence( \n, \t \b \ ..etc) for the problem below
+
+
+Source Code:
+
+
+Output:
+
+
+Problem 2. Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc… for this task
+
+
+Source Code:
+
+
+Output:
+
+
+Problem 3. Book Reservation; Accept User Input
+
+
+Source Code:
+
+
+Output:
+
+
+Problem 4. Day Identifier
+
+
+Source Code:
+
+
+Output:
+
